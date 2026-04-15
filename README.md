@@ -30,7 +30,7 @@ Rotation: 중심축 기준 15도 회전을 적용합니다.
 
 Color Variation: 밝기와 대비를 조절하여 다양한 조명 환경에 대비합니다.
 
-# Information about files.
+# More Information about Files.
 
 image_preprocessing.py: 전처리 전체 로직이 담긴 파이썬 스크립트
 
